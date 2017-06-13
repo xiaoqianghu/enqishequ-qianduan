@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"拍照ok.html",
-  "generationDate":new Date(1496627739944.66),
+  "generationDate":new Date(1497322451812.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

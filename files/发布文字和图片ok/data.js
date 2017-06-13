@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发布文字和图片ok.html",
-  "generationDate":new Date(1496627739444.06),
+  "generationDate":new Date(1497322451540.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

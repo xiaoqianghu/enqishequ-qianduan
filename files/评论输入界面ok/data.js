@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"评论输入界面ok.html",
-  "generationDate":new Date(1496627742902.07),
+  "generationDate":new Date(1497322453381.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"banner_____ok.html",
-  "generationDate":new Date(1496627734897.34),
+  "generationDate":new Date(1497322449172.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

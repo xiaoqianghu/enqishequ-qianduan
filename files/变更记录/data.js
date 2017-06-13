@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"变更记录.html",
-  "generationDate":new Date(1496627730366.35),
+  "generationDate":new Date(1497322446803.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "y":1},
             "size":{
               "width":1000,
-              "height":818}},
+              "height":918}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2858,7 +2858,220 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u129.png"}}]}]}},
+                "normal~":"images/变更记录/u129.png"}},
+{
+              "id":"0b7eda63f7244de584e0dfc3e8502634",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":818},
+                "size":{
+                  "width":38,
+                  "height":100},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"85393e52bc4f49cebc96e61853cfe57c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":818},
+                    "size":{
+                      "width":38,
+                      "height":100},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u131.png"}},
+{
+              "id":"cf9b214f6e174bd9a0b3ec61dc427594",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":818},
+                "size":{
+                  "width":88,
+                  "height":100},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4845c36fdd7c4349b98e6945fb8da9aa",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":818},
+                    "size":{
+                      "width":88,
+                      "height":100},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u133.png"}},
+{
+              "id":"eb5b94e2f37140aa8d7da2ed9fe690fb",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":126,
+                  "y":818},
+                "size":{
+                  "width":155,
+                  "height":100},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"985fb5c5b2494b2eae76052325ffc802",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":126,
+                      "y":818},
+                    "size":{
+                      "width":155,
+                      "height":100},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u135.png"}},
+{
+              "id":"2be5d083b7df44dab540bf5488e82406",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":281,
+                  "y":818},
+                "size":{
+                  "width":619,
+                  "height":100},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"fd219d8b01764bf48558d7c1aca189e4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":281,
+                      "y":818},
+                    "size":{
+                      "width":619,
+                      "height":100},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u137.png"}},
+{
+              "id":"e1b9df03c33143ef95bf4e8b12ef14b1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":900,
+                  "y":818},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6fb376c6643c4ec6ab994f2854b1744d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":900,
+                      "y":818},
+                    "size":{
+                      "width":100,
+                      "height":100},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u139.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -3123,4 +3336,24 @@
     "80520bafa6f24fbe87f19d50db7ae7da":{
       "scriptId":"u129"},
     "0fcfc05f792d4324ae1a02fb72228930":{
-      "scriptId":"u130"}}});
+      "scriptId":"u130"},
+    "0b7eda63f7244de584e0dfc3e8502634":{
+      "scriptId":"u131"},
+    "85393e52bc4f49cebc96e61853cfe57c":{
+      "scriptId":"u132"},
+    "cf9b214f6e174bd9a0b3ec61dc427594":{
+      "scriptId":"u133"},
+    "4845c36fdd7c4349b98e6945fb8da9aa":{
+      "scriptId":"u134"},
+    "eb5b94e2f37140aa8d7da2ed9fe690fb":{
+      "scriptId":"u135"},
+    "985fb5c5b2494b2eae76052325ffc802":{
+      "scriptId":"u136"},
+    "2be5d083b7df44dab540bf5488e82406":{
+      "scriptId":"u137"},
+    "fd219d8b01764bf48558d7c1aca189e4":{
+      "scriptId":"u138"},
+    "e1b9df03c33143ef95bf4e8b12ef14b1":{
+      "scriptId":"u139"},
+    "6fb376c6643c4ec6ab994f2854b1744d":{
+      "scriptId":"u140"}}});

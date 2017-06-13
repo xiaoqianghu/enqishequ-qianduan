@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"找加密码2_ok.html",
-  "generationDate":new Date(1496627733757.95),
+  "generationDate":new Date(1497322448565.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

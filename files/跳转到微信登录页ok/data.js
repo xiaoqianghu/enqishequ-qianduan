@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"跳转到微信登录页ok.html",
-  "generationDate":new Date(1496627732695.2),
+  "generationDate":new Date(1497322448011.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

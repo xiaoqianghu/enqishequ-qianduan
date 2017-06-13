@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"权限请求.html",
-  "generationDate":new Date(1496627730998.14),
+  "generationDate":new Date(1497322447131.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

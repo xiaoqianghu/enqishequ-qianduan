@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发布编辑ok.html",
-  "generationDate":new Date(1496627740478.96),
+  "generationDate":new Date(1497322452094.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

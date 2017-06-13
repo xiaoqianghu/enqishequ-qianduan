@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发贴ok.html",
-  "generationDate":new Date(1496627739307.57),
+  "generationDate":new Date(1497322451463.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
