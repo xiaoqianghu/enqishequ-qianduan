@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发布文字和图片ok.html",
-  "generationDate":new Date(1497322451540.17),
+  "generationDate":new Date(1500893911364.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -312,7 +312,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"fa46627d6b114bf88c77c83deb81f5e7",
           "label":"",

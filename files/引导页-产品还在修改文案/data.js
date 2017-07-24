@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"引导页-产品还在修改文案.html",
-  "generationDate":new Date(1497322447527.47),
+  "generationDate":new Date(1497340384503.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

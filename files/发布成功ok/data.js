@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发布成功ok.html",
-  "generationDate":new Date(1497322451932.52),
+  "generationDate":new Date(1500893911866.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -424,7 +424,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"958c05ea13c44569b27207abdc41717e",
           "label":"",
@@ -1655,7 +1655,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发布成功ok/u89.png"}},
+            "normal~":"images/自己文章详情ok/u346.png"}},
 {
           "id":"1243a26e10e747b5ad495ed62db17878",
           "label":"",
@@ -1677,7 +1677,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/发布成功ok/u91_line.png"}},
+            "line~":"images/自己文章详情ok/u348_line.png"}},
 {
           "id":"901bb9e9546a4e2798978eb05d0f9d55",
           "label":"",
@@ -1765,7 +1765,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/发布成功ok/u96_line.png"}},
+            "line~":"images/自己文章详情ok/u353_line.png"}},
 {
           "id":"adc7aa81f9f44dc885bb8a8e32302db5",
           "label":"",

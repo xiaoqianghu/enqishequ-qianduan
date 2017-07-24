@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"搜索ok.html",
-  "generationDate":new Date(1497322449809.78),
+  "generationDate":new Date(1500893908918.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2332,7 +2332,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"2b2f7464e81a4169b0616eabc39efef3",
           "label":"",
@@ -2373,7 +2373,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"e139d1e7ca7a49a68a7963b9ab86cbb4",
           "label":"",

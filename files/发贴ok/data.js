@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发贴ok.html",
-  "generationDate":new Date(1497322451463.84),
+  "generationDate":new Date(1500893911066.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1853,7 +1853,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"f3705b0ccbdb4475a284f0744dc484cf",
           "label":"",

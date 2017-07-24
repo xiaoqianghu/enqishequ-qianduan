@@ -37,9 +37,13 @@
         "type":"Wireframe",
         "url":"启动页ok.html",
         "children":[{
-            "pageName":"引导页-产品还在修改文案",
+            "pageName":"启动广告页-2.0",
             "type":"Wireframe",
-            "url":"引导页-产品还在修改文案.html"}]},
+            "url":"启动广告页-2_0.html"}]},
+{
+        "pageName":"引导页-OK",
+        "type":"Wireframe",
+        "url":"引导页-ok.html"},
 {
         "pageName":"注册登录",
         "type":"Folder",
@@ -105,6 +109,10 @@
                 "type":"Wireframe",
                 "url":"发贴ok.html",
                 "children":[{
+                    "pageName":"发贴图片说明ok",
+                    "type":"Wireframe",
+                    "url":"发贴图片说明ok.html"},
+{
                     "pageName":"发布文字和图片ok",
                     "type":"Wireframe",
                     "url":"发布文字和图片ok.html",
@@ -151,7 +159,11 @@
 {
             "pageName":"关注 ok",
             "type":"Wireframe",
-            "url":"关注_ok.html"}]}]},
+            "url":"关注_ok.html",
+            "children":[{
+                "pageName":"未登陆 OK",
+                "type":"Wireframe",
+                "url":"未登陆_ok.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

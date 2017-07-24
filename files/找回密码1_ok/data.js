@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"找回密码1_ok.html",
-  "generationDate":new Date(1497322448393.52),
+  "generationDate":new Date(1500893907069.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -150,7 +150,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"99f10736259148dcb949cf4578659561",
           "label":"",
@@ -536,7 +536,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"images/更新加载/u196_end.png",
-            "line~":"images/启动页ok/u35_line.png"}},
+            "line~":"images/启动广告页-2_0/u18_line.png"}},
 {
           "id":"3331240d3ae447b1bc4f34367172f4f9",
           "label":"",

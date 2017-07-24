@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"评论输入界面ok.html",
-  "generationDate":new Date(1497322453381.48),
+  "generationDate":new Date(1500893913643.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -439,7 +439,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"f523e3dc20bb4e479351336caedd9ec7",
           "label":"",
@@ -1880,7 +1880,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u55.png"}},
+            "normal~":"images/启动广告页-2_0/u38.png"}},
 {
           "id":"84a57c109fde43f88055cfcba9d0579b",
           "label":"",

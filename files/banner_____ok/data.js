@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"banner_____ok.html",
-  "generationDate":new Date(1497322449172.33),
+  "generationDate":new Date(1500893908135.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -123,7 +123,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"9c84ab22ec654577aa818811193ec56d",
           "label":"",
@@ -412,7 +412,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"91a3ae7e143e4dad8af5c7887e46c437",
           "label":"",
@@ -913,7 +913,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u55.png"}},
+            "normal~":"images/启动广告页-2_0/u38.png"}},
 {
           "id":"580761dd7ea64192ac1ae0352aceeb43",
           "label":"",
@@ -956,7 +956,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u55.png"}}]}},
+            "normal~":"images/启动广告页-2_0/u38.png"}}]}},
   "masters":{
     "7eae0193a65e431ca4eb8ac17758a1d2":{
       "packageId":"7eae0193a65e431ca4eb8ac17758a1d2",

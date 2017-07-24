@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"找加密码2_ok.html",
-  "generationDate":new Date(1497322448565.93),
+  "generationDate":new Date(1500893907288.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -198,7 +198,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"ede70c3daf4d4024aab75d6d4798dabf",
           "label":"",
@@ -784,7 +784,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"images/更新加载/u196_end.png",
-            "line~":"images/启动页ok/u35_line.png"}},
+            "line~":"images/启动广告页-2_0/u18_line.png"}},
 {
           "id":"4928a6d0a901410380d783e7cd6d5300",
           "label":"",

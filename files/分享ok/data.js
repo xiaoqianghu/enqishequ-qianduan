@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"分享ok.html",
-  "generationDate":new Date(1497322452992.23),
+  "generationDate":new Date(1500893913207.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"e4a530e7b66c4ba283971436e9a17de5",
           "label":"",
@@ -158,7 +158,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/启动页ok/u49_line.png"}},
+            "line~":"images/启动广告页-2_0/u32_line.png"}},
 {
           "id":"cc771f7ffe6a4e87a0eec0d99a2ed5f0",
           "label":"",
@@ -201,7 +201,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u55.png"}},
+            "normal~":"images/启动广告页-2_0/u38.png"}},
 {
           "id":"0d8ec9a570cb424ba6f7c2278f4681d6",
           "label":"",

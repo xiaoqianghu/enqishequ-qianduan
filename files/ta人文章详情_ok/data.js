@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"ta人文章详情_ok.html",
-  "generationDate":new Date(1497322450412.19),
+  "generationDate":new Date(1500893909693.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -438,7 +438,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"cd9ec778848a4e0aad109d807776d37c",
           "label":"",
@@ -1322,7 +1322,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u55.png"}},
+            "normal~":"images/启动广告页-2_0/u38.png"}},
 {
           "id":"de2f533f18e249ea9a785107ce8044fa",
           "label":"",

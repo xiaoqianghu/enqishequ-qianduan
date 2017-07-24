@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"ta人帖子详情ok.html",
-  "generationDate":new Date(1497322452536.92),
+  "generationDate":new Date(1500893912626.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -439,7 +439,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"f56d30b2a34c46e19addbf0641088876",
           "label":"",
@@ -1880,7 +1880,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u55.png"}},
+            "normal~":"images/启动广告页-2_0/u38.png"}},
 {
           "id":"b0a28340a0a84d188b271bb2a34c239f",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注册ok.html",
-  "generationDate":new Date(1497322448282.44),
+  "generationDate":new Date(1500893906913.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1416,7 +1416,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"294f6f54da52443f96f4ef829d53470e",
           "label":"",

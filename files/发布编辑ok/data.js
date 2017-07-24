@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发布编辑ok.html",
-  "generationDate":new Date(1497322452094.63),
+  "generationDate":new Date(1500893912060.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -340,7 +340,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"6ac569d0af6b4dfdbf7d48e0e5d1a5d9",
           "label":"",

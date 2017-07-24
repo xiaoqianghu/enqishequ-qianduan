@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择图片.html",
-  "generationDate":new Date(1497322451681.26),
+  "generationDate":new Date(1500893911534.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -900,7 +900,7 @@
           "annotation":{
             "交互逻辑":"点击，返回发贴图文编辑"},
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"3b6bf1fd47fd4476940c7ee00430f548",
           "label":"",
@@ -1743,7 +1743,7 @@
           "annotation":{
             "交互逻辑":"点击，返回发贴图文编辑"},
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"a9f26ba43c394154b9a458c0af677b25",
           "label":"",

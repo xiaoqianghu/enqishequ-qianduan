@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"自己帖子详情ok.html",
-  "generationDate":new Date(1497322452721.04),
+  "generationDate":new Date(1500893912847.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -439,7 +439,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"5c2f6e35ddef4ee4aa7ff601cc48b065",
           "label":"",
@@ -1829,7 +1829,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u55.png"}},
+            "normal~":"images/启动广告页-2_0/u38.png"}},
 {
           "id":"fef114c6d3db40b5a8c8057ea1f37a71",
           "label":"",
@@ -2770,7 +2770,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发布成功ok/u89.png"}},
+            "normal~":"images/自己文章详情ok/u346.png"}},
 {
           "id":"860289066d68434aa2c2b74ec6528c57",
           "label":"",
@@ -2792,7 +2792,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/发布成功ok/u91_line.png"}},
+            "line~":"images/自己文章详情ok/u348_line.png"}},
 {
           "id":"348ffacd3b1f4526b43f72485f925102",
           "label":"",
@@ -2880,7 +2880,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/发布成功ok/u96_line.png"}},
+            "line~":"images/自己文章详情ok/u353_line.png"}},
 {
           "id":"f56cb723d58d468e88c69a76b2a3fb93",
           "label":"",
@@ -2893,7 +2893,7 @@
               "y":78},
             "size":{
               "width":170,
-              "height":80}},
+              "height":48}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2909,7 +2909,7 @@
                   "y":78},
                 "size":{
                   "width":170,
-                  "height":80}},
+                  "height":48}},
               "adaptiveStyles":{
 }}],
           "images":{

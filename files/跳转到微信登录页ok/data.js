@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"跳转到微信登录页ok.html",
-  "generationDate":new Date(1497322448011.27),
+  "generationDate":new Date(1500893906466.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"c81ef85305ac4fbc8903b6c7dada3a71",
           "label":"",
@@ -315,7 +315,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"images/更新加载/u196_end.png",
-            "line~":"images/启动页ok/u35_line.png"}},
+            "line~":"images/启动广告页-2_0/u18_line.png"}},
 {
           "id":"0e9bb4b2212e4ece8410fa9c8909e9e3",
           "label":"",

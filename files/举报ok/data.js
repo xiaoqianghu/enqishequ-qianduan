@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"举报ok.html",
-  "generationDate":new Date(1497322453212.36),
+  "generationDate":new Date(1500893913481.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -348,7 +348,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动页ok/u47.png"}},
+            "normal~":"images/启动广告页-2_0/u30.png"}},
 {
           "id":"cc460b82dfe2472cbbe24f55f46456dd",
           "label":"",
